@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     var number3: Int = 0
     
     var ope: Int = 0
-    
      
     override func viewDidLoad() {
         super.viewDidLoad()
