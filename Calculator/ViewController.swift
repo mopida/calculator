@@ -53,7 +53,6 @@ class ViewController: UIViewController {
         number2 = number1
         number1 = 0
         ope = 2
-        
     }
     @IBAction func kakeru(){
         
