@@ -46,7 +46,6 @@ class ViewController: UIViewController {
         number2 = number1
         number1 = 0
         ope = 1
-        
     }
     @IBAction func mainasu(){
         
