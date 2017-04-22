@@ -29,7 +29,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     @IBAction func three(){
-        
         number1 = number1*10+3
         label.text = String(number1)
     }
